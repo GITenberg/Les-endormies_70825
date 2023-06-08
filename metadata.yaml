@@ -1,0 +1,33 @@
+_repo: Les-endormies_70825
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Magali-Boisnard
+    alias: Boisnard, Magali
+    birthdate: 1882
+    deathdate: 1945
+    gutenberg_agent_id: '55940'
+    url: http://www.gutenberg.org/2009/agents/55940
+description: ''
+gutenberg_issued: '2023-05-21'
+identifiers:
+  gutenberg: '70825'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k996832x
+pgterms:marc905: 20220828025047boisnard
+pgterms:marc906: '1909'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by the Bibliothèque
+  nationale de France (BnF/Gallica))
+publication_note: '  $aFrance :$bE. Sansot, $c1909.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Africa, North -- Fiction'
+- !lcsh 'Muslim women -- Fiction'
+- !lcc 'PQ'
+- GITenberg
+title: Les endormies
+url: http://www.gutenberg.org/ebooks/70825
